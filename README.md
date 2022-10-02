@@ -1,4 +1,4 @@
-# LD_10Seconds
+# Blobbbert
 
 Simple game made for Ludum Dare 51!
 
