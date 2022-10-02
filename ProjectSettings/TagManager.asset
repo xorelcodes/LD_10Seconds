@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Goal
+  - Freeze
+  - Restart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3707457105
+    locked: 0
+  - name: Goal
+    uniqueID: 242842871
+    locked: 0
+  - name: Walls
+    uniqueID: 1337728073
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1805337119
+    locked: 0
+  - name: Player
+    uniqueID: 1834687263
+    locked: 0
+  - name: UI
+    uniqueID: 2003782987
+    locked: 0
